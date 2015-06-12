@@ -1,0 +1,21 @@
+{
+  "name": "assoc-promise",
+  "version": "1.0.0",
+  "description": "Collect multiple Promise results and map them by key",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "keywords": [
+    "promise",
+    "utility",
+    "object",
+    "associative",
+    "property"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  }
+}
