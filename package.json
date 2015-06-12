@@ -16,6 +16,7 @@
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
   "license": "ISC",
   "devDependencies": {
+    "es6-promise": "^2.3.0",
     "tape": "^4.0.0"
   }
 }
