@@ -1,5 +1,7 @@
 # assoc-promise
 
+Requires a `Promise` polyfill (e.g. `require('es6-promise').polyfill()`).
+
 ```javascript
 var passoc = require('assoc-promise');
 
